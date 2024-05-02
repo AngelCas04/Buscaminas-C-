@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Buscamninas/1.0.0": {
+        "runtime": {
+          "Buscamninas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buscamninas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

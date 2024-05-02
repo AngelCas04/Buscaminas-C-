@@ -1,0 +1,16 @@
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.csproj.GenerateResource.cache
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.AssemblyInfoInputs.cache
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.AssemblyInfo.cs
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.csproj.CoreCompileInputs.cache
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscaminas.Form1.resources
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\bin\Debug\net8.0-windows\Buscamninas.exe
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\bin\Debug\net8.0-windows\Buscamninas.deps.json
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\bin\Debug\net8.0-windows\Buscamninas.runtimeconfig.json
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\bin\Debug\net8.0-windows\Buscamninas.dll
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\bin\Debug\net8.0-windows\Buscamninas.pdb
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.dll
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\refint\Buscamninas.dll
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.pdb
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\Buscamninas.genruntimeconfig.cache
+C:\Users\anshe\OneDrive\Documentos\Practicas progra\Practica1\seleccion_doble\Buscamninas\obj\Debug\net8.0-windows\ref\Buscamninas.dll
